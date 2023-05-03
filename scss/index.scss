@@ -1,0 +1,16 @@
+$color-black :#000;
+$color-white:#fff;
+$color-yellow:yellow;
+body{
+  h1{
+    text-align:center;
+  }
+  h2{
+    text-align:left;
+    background-color:$color-black;
+    color:$color-white;
+  }
+  p{
+    background-color:$color-yellow;
+  }
+}
